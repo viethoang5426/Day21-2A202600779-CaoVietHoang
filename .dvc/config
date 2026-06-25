@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://day21-ai20k-viethoang5426/dvc
+    credentialpath = ../sa-key.json
